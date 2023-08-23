@@ -17,8 +17,8 @@ body {
     font-weight: bolder;
     padding-top: 40px;
   }
-  #raffle {
-  }
+  /* #raffle {
+  } */
   .blur {
     filter: blur(6px);
   }
